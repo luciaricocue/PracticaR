@@ -2,7 +2,7 @@
 % Please edit documentation in R/doble.R
 \name{doble}
 \alias{doble}
-\title{Calcula el doble de un número, es decir, lo multiplica por 2}
+\title{Calcula el doble de un n&uacutemero, es decir, lo multiplica por 2}
 \usage{
 doble(x)
 }
